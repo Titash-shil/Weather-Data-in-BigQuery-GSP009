@@ -10,11 +10,11 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Classify-Text-into-Categories-with-the-Natural-Language-API-GSP063/refs/heads/main/qwiklab_explorers_gsp063.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Weather-Data-in-BigQuery-GSP009/refs/heads/main/qwiklab_explorers_gsp009.sh
 
-sudo chmod +x qwiklab_explorers_gsp063.sh
+sudo chmod +x qwiklab_explorers_gsp009.sh
 
-./qwiklab_explorers_gsp063.sh
+./qwiklab_explorers_gsp009.sh
 ```
 
 ---
